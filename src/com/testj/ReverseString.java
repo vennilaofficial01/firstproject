@@ -23,6 +23,19 @@ public class ReverseString {
                                                    // Close the scanner
        scanner.close();
     }
+   
+    	    
+    	    public void devmethod() {
+    	    	System.out.println("dev");
+    	    	
+    	    	
+    	    }
+    	    
+    	    
+    	    
+    	    
+    	    
+    	
 
 
 public void methodqa() {
@@ -31,4 +44,5 @@ public void methodqa() {
 public void methodqa2() {
 	System.out.println("qa2 branch2");
 }
+
 }
