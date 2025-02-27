@@ -23,4 +23,15 @@ public class ReverseString {
                                                    // Close the scanner
        scanner.close();
     }
+    
+    public void devmethod() {
+    	System.out.println("dev");
+    	
+    	
+    }
+    
+    
+    
+    
+    
 }
